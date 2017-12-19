@@ -1,0 +1,16 @@
+{
+  "index":"index.html",
+  "root":"www",
+  "type":{
+    ".img":	"application/x-img",
+    ".jpg":"application/x-jpg",
+    ".jpeg":"image/jpeg",
+    ".gif":"image/gif",
+    ".mp4":"video/mpeg4",
+    ".wmv":"video/x-ms-wmv",
+    ".ico":"image/x-icon",
+    ".html":"text/html",
+    ".js":"application/x-javascript",
+    ".css":"text/css"
+  }
+}
